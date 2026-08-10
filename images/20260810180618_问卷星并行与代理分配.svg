@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390">
+  <defs>
+    <style>
+      .t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:27px;font-weight:700}.s{font-size:20px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.line{stroke:#c7d8e8;stroke-width:2}.local{fill:#2f80c9}.proxy{fill:#3a9b70}.tag{font-size:17px;font-weight:700;fill:#fff}</style>
+  </defs>
+  <rect width="1400" height="390" rx="18" fill="#eef5fb"/>
+  <text x="700" y="48" text-anchor="middle" class="t h">并行数量与代理 IP 分配方式</text>
+
+  <g transform="translate(55,90)">
+    <rect class="box" width="400" height="220" rx="14"/><circle class="num" cx="34" cy="34" r="22"/><text class="n" x="34" y="42" text-anchor="middle">1</text><text class="t h" x="200" y="76" text-anchor="middle">并行数量 1</text><path class="line" d="M30 105 H370"/>
+    <rect class="local" x="35" y="124" width="92" height="32" rx="16"/><text class="tag" x="81" y="147" text-anchor="middle">关闭代理</text><text class="t s" x="250" y="148" text-anchor="middle">本地 IP × 1</text>
+    <rect class="proxy" x="35" y="171" width="92" height="32" rx="16"/><text class="tag" x="81" y="194" text-anchor="middle">开启代理</text><text class="t s" x="250" y="195" text-anchor="middle">代理 IP × 1</text>
+  </g>
+
+  <g transform="translate(500,90)">
+    <rect class="box" width="400" height="220" rx="14"/><circle class="num" cx="34" cy="34" r="22"/><text class="n" x="34" y="42" text-anchor="middle">2</text><text class="t h" x="200" y="76" text-anchor="middle">并行数量 2</text><path class="line" d="M30 105 H370"/>
+    <rect class="local" x="35" y="124" width="92" height="32" rx="16"/><text class="tag" x="81" y="147" text-anchor="middle">关闭代理</text><text class="t s" x="250" y="148" text-anchor="middle">本地 IP × 2</text>
+    <rect class="proxy" x="35" y="171" width="92" height="32" rx="16"/><text class="tag" x="81" y="194" text-anchor="middle">开启代理</text><text class="t s" x="250" y="195" text-anchor="middle">本地 × 1 ＋ 代理 × 1</text>
+  </g>
+
+  <g transform="translate(945,90)">
+    <rect class="box" width="400" height="220" rx="14"/><circle class="num" cx="34" cy="34" r="22"/><text class="n" x="34" y="42" text-anchor="middle">3</text><text class="t h" x="200" y="76" text-anchor="middle">并行数量 3</text><path class="line" d="M30 105 H370"/>
+    <rect class="local" x="35" y="124" width="92" height="32" rx="16"/><text class="tag" x="81" y="147" text-anchor="middle">关闭代理</text><text class="t s" x="250" y="148" text-anchor="middle">本地 IP × 3</text>
+    <rect class="proxy" x="35" y="171" width="92" height="32" rx="16"/><text class="tag" x="81" y="194" text-anchor="middle">开启代理</text><text class="t s" x="250" y="195" text-anchor="middle">本地 × 1 ＋ 代理 × 2</text>
+  </g>
+
+  <text x="700" y="356" text-anchor="middle" class="t s">追求速度：关闭代理并选择 1～2 路　｜　分散提交来源：开启代理并选择 2～3 路</text>
+</svg>
