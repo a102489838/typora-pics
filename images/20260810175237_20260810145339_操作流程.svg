@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="330" viewBox="0 0 1400 330">
+  <defs><style>.t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:27px;font-weight:700}.s{font-size:19px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.arrow{stroke:#7c93a8;stroke-width:4;fill:none;marker-end:url(#m)}</style><marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c93a8"/></marker></defs>
+  <rect width="1400" height="330" rx="18" fill="#eef5fb"/>
+  <text x="700" y="48" text-anchor="middle" class="t h">RAW 与 JPG 匹配工具：六步完成照片整理</text>
+  <g transform="translate(35,90)"><rect class="box" width="190" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">1</text><text class="t h" x="95" y="72" text-anchor="middle">选择方向</text><text class="t s" x="95" y="108" text-anchor="middle">JPG 找 RAW</text><text class="t s" x="95" y="136" text-anchor="middle">或 RAW 找 JPG</text></g>
+  <path class="arrow" d="M235 170 H262"/>
+  <g transform="translate(270,90)"><rect class="box" width="190" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">2</text><text class="t h" x="95" y="72" text-anchor="middle">选择目录</text><text class="t s" x="95" y="108" text-anchor="middle">源目录 · 目标目录</text><text class="t s" x="95" y="136" text-anchor="middle">独立输出目录</text></g>
+  <path class="arrow" d="M470 170 H497"/>
+  <g transform="translate(505,90)"><rect class="box" width="190" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">3</text><text class="t h" x="95" y="72" text-anchor="middle">扫描预览</text><text class="t s" x="95" y="108" text-anchor="middle">浏览照片</text><text class="t s" x="95" y="136" text-anchor="middle">选择或剔除</text></g>
+  <path class="arrow" d="M705 170 H732"/>
+  <g transform="translate(740,90)"><rect class="box" width="190" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">4</text><text class="t h" x="95" y="72" text-anchor="middle">设置规则</text><text class="t s" x="95" y="108" text-anchor="middle">输出内容</text><text class="t s" x="95" y="136" text-anchor="middle">精确或模糊匹配</text></g>
+  <path class="arrow" d="M940 170 H967"/>
+  <g transform="translate(975,90)"><rect class="box" width="190" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">5</text><text class="t h" x="95" y="72" text-anchor="middle">开始处理</text><text class="t s" x="95" y="108" text-anchor="middle">查看进度</text><text class="t s" x="95" y="136" text-anchor="middle">必要时安全停止</text></g>
+  <path class="arrow" d="M1175 170 H1202"/>
+  <g transform="translate(1210,90)"><rect class="box" width="155" height="160" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">6</text><text class="t h" x="78" y="72" text-anchor="middle">查看结果</text><text class="t s" x="78" y="108" text-anchor="middle">匹配文件</text><text class="t s" x="78" y="136" text-anchor="middle">未匹配归档</text></g>
+  <text x="700" y="300" text-anchor="middle" class="t s">程序复制文件到输出目录，不会删除、移动或修改源照片</text>
+</svg>
