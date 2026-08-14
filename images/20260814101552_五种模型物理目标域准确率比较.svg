@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="115" y1="595.0" x2="1155" y2="595.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="601.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">0</text>
+<line x1="115" y1="487.0" x2="1155" y2="487.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="493.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">20</text>
+<line x1="115" y1="379.0" x2="1155" y2="379.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="385.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">40</text>
+<line x1="115" y1="271.0" x2="1155" y2="271.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="277.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">60</text>
+<line x1="115" y1="163.0" x2="1155" y2="163.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="168.99999999999997" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">80</text>
+<line x1="115" y1="55.0" x2="1155" y2="55.0" stroke="#BDBDBD" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="101" y="61.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">100</text>
+<line x1="115" y1="55" x2="115" y2="595" stroke="#333333" stroke-width="2"/>
+<line x1="115" y1="595" x2="1155" y2="595" stroke="#333333" stroke-width="2"/>
+<rect x="163.0" y="275.6" width="112" height="319.4" fill="#78909C" stroke="#333333" stroke-width="1"/>
+<line x1="219.0" y1="257.4" x2="219.0" y2="293.8" stroke="#222222" stroke-width="3"/>
+<line x1="203.0" y1="257.4" x2="235.0" y2="257.4" stroke="#222222" stroke-width="3"/>
+<line x1="203.0" y1="293.8" x2="235.0" y2="293.8" stroke="#222222" stroke-width="3"/>
+<text x="219.0" y="243.39200000000005" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">59.15±3.37</text>
+<text x="219.0" y="634" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#222222">LSTM</text>
+<rect x="371.0" y="317.5" width="112" height="277.5" fill="#90A4AE" stroke="#333333" stroke-width="1"/>
+<line x1="427.0" y1="290.4" x2="427.0" y2="344.7" stroke="#222222" stroke-width="3"/>
+<line x1="411.0" y1="290.4" x2="443.0" y2="290.4" stroke="#222222" stroke-width="3"/>
+<line x1="411.0" y1="344.7" x2="443.0" y2="344.7" stroke="#222222" stroke-width="3"/>
+<text x="427.0" y="276.43999999999994" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">51.38±5.02</text>
+<text x="427.0" y="634" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#222222">Transformer</text>
+<rect x="579.0" y="298.4" width="112" height="296.6" fill="#80CBC4" stroke="#333333" stroke-width="1"/>
+<line x1="635.0" y1="279.0" x2="635.0" y2="317.9" stroke="#222222" stroke-width="3"/>
+<line x1="619.0" y1="279.0" x2="651.0" y2="279.0" stroke="#222222" stroke-width="3"/>
+<line x1="619.0" y1="317.9" x2="651.0" y2="317.9" stroke="#222222" stroke-width="3"/>
+<text x="635.0" y="264.99199999999996" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">54.92±3.60</text>
+<text x="635.0" y="634" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#222222">TCN</text>
+<rect x="787.0" y="277.6" width="112" height="317.4" fill="#64B5F6" stroke="#333333" stroke-width="1"/>
+<line x1="843.0" y1="261.5" x2="843.0" y2="293.8" stroke="#222222" stroke-width="3"/>
+<line x1="827.0" y1="261.5" x2="859.0" y2="261.5" stroke="#222222" stroke-width="3"/>
+<line x1="827.0" y1="293.8" x2="859.0" y2="293.8" stroke="#222222" stroke-width="3"/>
+<text x="843.0" y="247.49599999999998" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">58.77±2.99</text>
+<text x="843.0" y="634" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#222222">CNN</text>
+<rect x="995.0" y="121.0" width="112" height="474.0" fill="#E64A19" stroke="#333333" stroke-width="1"/>
+<line x1="1051.0" y1="111.2" x2="1051.0" y2="130.9" stroke="#222222" stroke-width="3"/>
+<line x1="1035.0" y1="111.2" x2="1067.0" y2="111.2" stroke="#222222" stroke-width="3"/>
+<line x1="1035.0" y1="130.9" x2="1067.0" y2="130.9" stroke="#222222" stroke-width="3"/>
+<text x="1051.0" y="97.16000000000005" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">87.77±1.83</text>
+<text x="1051.0" y="629.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" text-anchor="middle" fill="#222222"><tspan x="1051.0">Attention-LSTM-</tspan><tspan x="1051.0" dy="20">DANN</tspan></text>
+<text x="28" y="325.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#222222" transform="rotate(-90 28 325.0)">物理目标域准确率（%）</text>
+</svg>
