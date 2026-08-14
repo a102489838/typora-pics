@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1590" height="660" viewBox="0 0 1590 660">
+<rect width="100%" height="100%" fill="white"/>
+<text x="292.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">H</text>
+<text x="387.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U1</text>
+<text x="482.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U2</text>
+<text x="577.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U3</text>
+<text x="672.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U4</text>
+<text x="767.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U5</text>
+<text x="862.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">U6</text>
+<text x="957.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L1</text>
+<text x="1052.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L2</text>
+<text x="1147.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L3</text>
+<text x="1242.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L4</text>
+<text x="1337.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L5</text>
+<text x="1432.5" y="42" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#222222">L6</text>
+<text x="227" y="110.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">LSTM</text>
+<rect x="245" y="60" width="95" height="88" fill="#F7FBFF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="292.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.00</text>
+<rect x="340" y="60" width="95" height="88" fill="#749EC9" stroke="#D0D7DE" stroke-width="1"/>
+<text x="387.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.55</text>
+<rect x="435" y="60" width="95" height="88" fill="#497FB7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="482.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.73</text>
+<rect x="530" y="60" width="95" height="88" fill="#145AA1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="577.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.95</text>
+<rect x="625" y="60" width="95" height="88" fill="#6090C1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="672.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.63</text>
+<rect x="720" y="60" width="95" height="88" fill="#3A75B1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="767.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.79</text>
+<rect x="815" y="60" width="95" height="88" fill="#90B2D4" stroke="#D0D7DE" stroke-width="1"/>
+<text x="862.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.43</text>
+<rect x="910" y="60" width="95" height="88" fill="#C5D7EA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="957.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.21</text>
+<rect x="1005" y="60" width="95" height="88" fill="#97B7D7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1052.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.40</text>
+<rect x="1100" y="60" width="95" height="88" fill="#2565A8" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1147.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.88</text>
+<rect x="1195" y="60" width="95" height="88" fill="#598BBE" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1242.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.66</text>
+<rect x="1290" y="60" width="95" height="88" fill="#AFC8E1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1337.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.30</text>
+<rect x="1385" y="60" width="95" height="88" fill="#80A6CE" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1432.5" y="111.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.50</text>
+<text x="227" y="198.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">Transformer</text>
+<rect x="245" y="148" width="95" height="88" fill="#F7FBFF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="292.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.00</text>
+<rect x="340" y="148" width="95" height="88" fill="#7DA4CD" stroke="#D0D7DE" stroke-width="1"/>
+<text x="387.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.51</text>
+<rect x="435" y="148" width="95" height="88" fill="#5C8CBF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="482.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.65</text>
+<rect x="530" y="148" width="95" height="88" fill="#2767A9" stroke="#D0D7DE" stroke-width="1"/>
+<text x="577.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.87</text>
+<rect x="625" y="148" width="95" height="88" fill="#6C98C6" stroke="#D0D7DE" stroke-width="1"/>
+<text x="672.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.58</text>
+<rect x="720" y="148" width="95" height="88" fill="#6895C4" stroke="#D0D7DE" stroke-width="1"/>
+<text x="767.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.60</text>
+<rect x="815" y="148" width="95" height="88" fill="#ABC5DF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="862.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.32</text>
+<rect x="910" y="148" width="95" height="88" fill="#AFC8E1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="957.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.30</text>
+<rect x="1005" y="148" width="95" height="88" fill="#C7D9EB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1052.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.20</text>
+<rect x="1100" y="148" width="95" height="88" fill="#5E8EC0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1147.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.64</text>
+<rect x="1195" y="148" width="95" height="88" fill="#78A1CB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1242.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.53</text>
+<rect x="1290" y="148" width="95" height="88" fill="#6F9AC7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1337.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.57</text>
+<rect x="1385" y="148" width="95" height="88" fill="#ABC5DF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1432.5" y="199.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.32</text>
+<text x="227" y="286.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">TCN</text>
+<rect x="245" y="236" width="95" height="88" fill="#CCDCED" stroke="#D0D7DE" stroke-width="1"/>
+<text x="292.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.18</text>
+<rect x="340" y="236" width="95" height="88" fill="#769FCA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="387.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.54</text>
+<rect x="435" y="236" width="95" height="88" fill="#497FB7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="482.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.73</text>
+<rect x="530" y="236" width="95" height="88" fill="#195DA3" stroke="#D0D7DE" stroke-width="1"/>
+<text x="577.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.93</text>
+<rect x="625" y="236" width="95" height="88" fill="#5E8EC0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="672.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.64</text>
+<rect x="720" y="236" width="95" height="88" fill="#5084BA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="767.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.70</text>
+<rect x="815" y="236" width="95" height="88" fill="#A3C0DC" stroke="#D0D7DE" stroke-width="1"/>
+<text x="862.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.35</text>
+<rect x="910" y="236" width="95" height="88" fill="#B6CDE4" stroke="#D0D7DE" stroke-width="1"/>
+<text x="957.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.27</text>
+<rect x="1005" y="236" width="95" height="88" fill="#89ADD1" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1052.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.46</text>
+<rect x="1100" y="236" width="95" height="88" fill="#749EC9" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1147.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.55</text>
+<rect x="1195" y="236" width="95" height="88" fill="#769FCA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1242.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.54</text>
+<rect x="1290" y="236" width="95" height="88" fill="#97B7D7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1337.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.40</text>
+<rect x="1385" y="236" width="95" height="88" fill="#9AB9D8" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1432.5" y="287.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.39</text>
+<text x="227" y="374.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">CNN</text>
+<rect x="245" y="324" width="95" height="88" fill="#F7FBFF" stroke="#D0D7DE" stroke-width="1"/>
+<text x="292.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.00</text>
+<rect x="340" y="324" width="95" height="88" fill="#749EC9" stroke="#D0D7DE" stroke-width="1"/>
+<text x="387.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.55</text>
+<rect x="435" y="324" width="95" height="88" fill="#5286BB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="482.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.69</text>
+<rect x="530" y="324" width="95" height="88" fill="#1258A0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="577.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.96</text>
+<rect x="625" y="324" width="95" height="88" fill="#5286BB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="672.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.69</text>
+<rect x="720" y="324" width="95" height="88" fill="#5789BD" stroke="#D0D7DE" stroke-width="1"/>
+<text x="767.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.67</text>
+<rect x="815" y="324" width="95" height="88" fill="#78A1CB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="862.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.53</text>
+<rect x="910" y="324" width="95" height="88" fill="#ADC6E0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="957.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.31</text>
+<rect x="1005" y="324" width="95" height="88" fill="#80A6CE" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1052.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.50</text>
+<rect x="1100" y="324" width="95" height="88" fill="#2969AA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1147.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.86</text>
+<rect x="1195" y="324" width="95" height="88" fill="#6392C2" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1242.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.62</text>
+<rect x="1290" y="324" width="95" height="88" fill="#A3C0DC" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1337.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.35</text>
+<rect x="1385" y="324" width="95" height="88" fill="#87ABD0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1432.5" y="375.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#202020">0.47</text>
+<text x="227" y="462.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="17" font-weight="normal" text-anchor="end" fill="#222222">Attention-LSTM-DANN</text>
+<rect x="245" y="412" width="95" height="88" fill="#316EAD" stroke="#D0D7DE" stroke-width="1"/>
+<text x="292.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.83</text>
+<rect x="340" y="412" width="95" height="88" fill="#3873B0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="387.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.80</text>
+<rect x="435" y="412" width="95" height="88" fill="#2565A8" stroke="#D0D7DE" stroke-width="1"/>
+<text x="482.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.88</text>
+<rect x="530" y="412" width="95" height="88" fill="#0D549E" stroke="#D0D7DE" stroke-width="1"/>
+<text x="577.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.98</text>
+<rect x="625" y="412" width="95" height="88" fill="#1258A0" stroke="#D0D7DE" stroke-width="1"/>
+<text x="672.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.96</text>
+<rect x="720" y="412" width="95" height="88" fill="#2264A7" stroke="#D0D7DE" stroke-width="1"/>
+<text x="767.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.89</text>
+<rect x="815" y="412" width="95" height="88" fill="#4B81B8" stroke="#D0D7DE" stroke-width="1"/>
+<text x="862.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.72</text>
+<rect x="910" y="412" width="95" height="88" fill="#3370AE" stroke="#D0D7DE" stroke-width="1"/>
+<text x="957.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.82</text>
+<rect x="1005" y="412" width="95" height="88" fill="#2C6AAB" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1052.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.85</text>
+<rect x="1100" y="412" width="95" height="88" fill="#0F569F" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1147.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.97</text>
+<rect x="1195" y="412" width="95" height="88" fill="#0A539D" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1242.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.99</text>
+<rect x="1290" y="412" width="95" height="88" fill="#2E6CAC" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1337.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.84</text>
+<rect x="1385" y="412" width="95" height="88" fill="#3D76B2" stroke="#D0D7DE" stroke-width="1"/>
+<text x="1432.5" y="463.0" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">0.78</text>
+<rect x="245.0" y="545" width="13.2" height="18" fill="#F7FBFF"/>
+<rect x="257.2" y="545" width="13.2" height="18" fill="#F5F9FE"/>
+<rect x="269.5" y="545" width="13.2" height="18" fill="#F2F8FD"/>
+<rect x="281.7" y="545" width="13.2" height="18" fill="#F0F6FC"/>
+<rect x="293.9" y="545" width="13.2" height="18" fill="#EDF4FB"/>
+<rect x="306.1" y="545" width="13.2" height="18" fill="#EBF2FA"/>
+<rect x="318.4" y="545" width="13.2" height="18" fill="#E9F1F9"/>
+<rect x="330.6" y="545" width="13.2" height="18" fill="#E6EFF8"/>
+<rect x="342.8" y="545" width="13.2" height="18" fill="#E4EDF7"/>
+<rect x="355.0" y="545" width="13.2" height="18" fill="#E1ECF6"/>
+<rect x="367.3" y="545" width="13.2" height="18" fill="#DFEAF5"/>
+<rect x="379.5" y="545" width="13.2" height="18" fill="#DDE8F4"/>
+<rect x="391.7" y="545" width="13.2" height="18" fill="#DAE7F3"/>
+<rect x="404.0" y="545" width="13.2" height="18" fill="#D8E5F2"/>
+<rect x="416.2" y="545" width="13.2" height="18" fill="#D6E3F1"/>
+<rect x="428.4" y="545" width="13.2" height="18" fill="#D3E2F0"/>
+<rect x="440.6" y="545" width="13.2" height="18" fill="#D1E0EF"/>
+<rect x="452.9" y="545" width="13.2" height="18" fill="#CEDEEE"/>
+<rect x="465.1" y="545" width="13.2" height="18" fill="#CCDCED"/>
+<rect x="477.3" y="545" width="13.2" height="18" fill="#CADBEC"/>
+<rect x="489.6" y="545" width="13.2" height="18" fill="#C7D9EB"/>
+<rect x="501.8" y="545" width="13.2" height="18" fill="#C5D7EA"/>
+<rect x="514.0" y="545" width="13.2" height="18" fill="#C2D6E9"/>
+<rect x="526.2" y="545" width="13.2" height="18" fill="#C0D4E8"/>
+<rect x="538.5" y="545" width="13.2" height="18" fill="#BED2E7"/>
+<rect x="550.7" y="545" width="13.2" height="18" fill="#BBD0E6"/>
+<rect x="562.9" y="545" width="13.2" height="18" fill="#B9CFE5"/>
+<rect x="575.1" y="545" width="13.2" height="18" fill="#B6CDE4"/>
+<rect x="587.4" y="545" width="13.2" height="18" fill="#B4CBE3"/>
+<rect x="599.6" y="545" width="13.2" height="18" fill="#B2CAE2"/>
+<rect x="611.8" y="545" width="13.2" height="18" fill="#AFC8E1"/>
+<rect x="624.1" y="545" width="13.2" height="18" fill="#ADC6E0"/>
+<rect x="636.3" y="545" width="13.2" height="18" fill="#ABC5DF"/>
+<rect x="648.5" y="545" width="13.2" height="18" fill="#A8C3DE"/>
+<rect x="660.7" y="545" width="13.2" height="18" fill="#A6C1DD"/>
+<rect x="673.0" y="545" width="13.2" height="18" fill="#A3C0DC"/>
+<rect x="685.2" y="545" width="13.2" height="18" fill="#A1BEDB"/>
+<rect x="697.4" y="545" width="13.2" height="18" fill="#9FBCDA"/>
+<rect x="709.7" y="545" width="13.2" height="18" fill="#9CBAD9"/>
+<rect x="721.9" y="545" width="13.2" height="18" fill="#9AB9D8"/>
+<rect x="734.1" y="545" width="13.2" height="18" fill="#97B7D7"/>
+<rect x="746.3" y="545" width="13.2" height="18" fill="#95B5D6"/>
+<rect x="758.6" y="545" width="13.2" height="18" fill="#93B4D5"/>
+<rect x="770.8" y="545" width="13.2" height="18" fill="#90B2D4"/>
+<rect x="783.0" y="545" width="13.2" height="18" fill="#8EB0D3"/>
+<rect x="795.2" y="545" width="13.2" height="18" fill="#8BAED2"/>
+<rect x="807.5" y="545" width="13.2" height="18" fill="#89ADD1"/>
+<rect x="819.7" y="545" width="13.2" height="18" fill="#87ABD0"/>
+<rect x="831.9" y="545" width="13.2" height="18" fill="#84A9CF"/>
+<rect x="844.2" y="545" width="13.2" height="18" fill="#82A8CE"/>
+<rect x="856.4" y="545" width="13.2" height="18" fill="#80A6CE"/>
+<rect x="868.6" y="545" width="13.2" height="18" fill="#7DA4CD"/>
+<rect x="880.8" y="545" width="13.2" height="18" fill="#7BA3CC"/>
+<rect x="893.1" y="545" width="13.2" height="18" fill="#78A1CB"/>
+<rect x="905.3" y="545" width="13.2" height="18" fill="#769FCA"/>
+<rect x="917.5" y="545" width="13.2" height="18" fill="#749EC9"/>
+<rect x="929.8" y="545" width="13.2" height="18" fill="#719CC8"/>
+<rect x="942.0" y="545" width="13.2" height="18" fill="#6F9AC7"/>
+<rect x="954.2" y="545" width="13.2" height="18" fill="#6C98C6"/>
+<rect x="966.4" y="545" width="13.2" height="18" fill="#6A97C5"/>
+<rect x="978.7" y="545" width="13.2" height="18" fill="#6895C4"/>
+<rect x="990.9" y="545" width="13.2" height="18" fill="#6593C3"/>
+<rect x="1003.1" y="545" width="13.2" height="18" fill="#6392C2"/>
+<rect x="1015.3" y="545" width="13.2" height="18" fill="#6090C1"/>
+<rect x="1027.6" y="545" width="13.2" height="18" fill="#5E8EC0"/>
+<rect x="1039.8" y="545" width="13.2" height="18" fill="#5C8CBF"/>
+<rect x="1052.0" y="545" width="13.2" height="18" fill="#598BBE"/>
+<rect x="1064.3" y="545" width="13.2" height="18" fill="#5789BD"/>
+<rect x="1076.5" y="545" width="13.2" height="18" fill="#5487BC"/>
+<rect x="1088.7" y="545" width="13.2" height="18" fill="#5286BB"/>
+<rect x="1100.9" y="545" width="13.2" height="18" fill="#5084BA"/>
+<rect x="1113.2" y="545" width="13.2" height="18" fill="#4D82B9"/>
+<rect x="1125.4" y="545" width="13.2" height="18" fill="#4B81B8"/>
+<rect x="1137.6" y="545" width="13.2" height="18" fill="#497FB7"/>
+<rect x="1149.9" y="545" width="13.2" height="18" fill="#467DB6"/>
+<rect x="1162.1" y="545" width="13.2" height="18" fill="#447CB5"/>
+<rect x="1174.3" y="545" width="13.2" height="18" fill="#417AB4"/>
+<rect x="1186.5" y="545" width="13.2" height="18" fill="#3F78B3"/>
+<rect x="1198.8" y="545" width="13.2" height="18" fill="#3D76B2"/>
+<rect x="1211.0" y="545" width="13.2" height="18" fill="#3A75B1"/>
+<rect x="1223.2" y="545" width="13.2" height="18" fill="#3873B0"/>
+<rect x="1235.4" y="545" width="13.2" height="18" fill="#3571AF"/>
+<rect x="1247.7" y="545" width="13.2" height="18" fill="#3370AE"/>
+<rect x="1259.9" y="545" width="13.2" height="18" fill="#316EAD"/>
+<rect x="1272.1" y="545" width="13.2" height="18" fill="#2E6CAC"/>
+<rect x="1284.4" y="545" width="13.2" height="18" fill="#2C6AAB"/>
+<rect x="1296.6" y="545" width="13.2" height="18" fill="#2969AA"/>
+<rect x="1308.8" y="545" width="13.2" height="18" fill="#2767A9"/>
+<rect x="1321.0" y="545" width="13.2" height="18" fill="#2565A8"/>
+<rect x="1333.3" y="545" width="13.2" height="18" fill="#2264A7"/>
+<rect x="1345.5" y="545" width="13.2" height="18" fill="#2062A6"/>
+<rect x="1357.7" y="545" width="13.2" height="18" fill="#1E60A5"/>
+<rect x="1370.0" y="545" width="13.2" height="18" fill="#1B5FA4"/>
+<rect x="1382.2" y="545" width="13.2" height="18" fill="#195DA3"/>
+<rect x="1394.4" y="545" width="13.2" height="18" fill="#165BA2"/>
+<rect x="1406.6" y="545" width="13.2" height="18" fill="#145AA1"/>
+<rect x="1418.9" y="545" width="13.2" height="18" fill="#1258A0"/>
+<rect x="1431.1" y="545" width="13.2" height="18" fill="#0F569F"/>
+<rect x="1443.3" y="545" width="13.2" height="18" fill="#0D549E"/>
+<rect x="1455.5" y="545" width="13.2" height="18" fill="#0A539D"/>
+<rect x="1467.8" y="545" width="13.2" height="18" fill="#08519C"/>
+<text x="245" y="587" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#222222">0</text>
+<text x="1480" y="587" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="15" font-weight="normal" text-anchor="end" fill="#222222">1</text>
+<text x="862.5" y="587" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#222222">F1均值（标准差见表6）</text>
+<text x="862.5" y="642" font-family="Microsoft YaHei, SimHei, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#222222">故障类别（H：健康；U1-U6：上部铰链；L1-L6：下部铰链）</text>
+</svg>
