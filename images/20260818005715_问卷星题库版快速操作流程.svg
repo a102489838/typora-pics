@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350" role="img" aria-labelledby="title desc">
+  <title id="title">问卷星题库版七步操作流程</title>
+  <desc id="desc">从设置题库模板、填写题库、设置问卷、核查预热、测试，到手动或定时答题并提交的七步流程。</desc>
+  <defs>
+    <style>.t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:25px;font-weight:700}.s{font-size:17px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.focus{fill:#fff8ef;stroke:#e89b38;stroke-width:2}.focusnum{fill:#dd8524}.arrow{stroke:#7c93a8;stroke-width:4;fill:none;marker-end:url(#m)}</style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c93a8"/></marker>
+  </defs>
+  <rect width="1400" height="350" rx="18" fill="#eef5fb"/>
+  <text x="700" y="48" text-anchor="middle" class="t h">问卷星题库答题：七步完成题库准备与提交</text>
+
+  <g transform="translate(25,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">1</text><text class="t h" x="85" y="76" text-anchor="middle">设置模板</text><text class="t s" x="85" y="113" text-anchor="middle">选择保存路径</text><text class="t s" x="85" y="141" text-anchor="middle">设置最大选项数</text></g>
+  <path class="arrow" d="M203 178 H214"/>
+  <g transform="translate(222,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">2</text><text class="t h" x="85" y="76" text-anchor="middle">生成题库</text><text class="t s" x="85" y="113" text-anchor="middle">创建标准 Excel</text><text class="t s" x="85" y="141" text-anchor="middle">查看说明与示例</text></g>
+  <path class="arrow" d="M400 178 H411"/>
+  <g transform="translate(419,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">3</text><text class="t h" x="85" y="76" text-anchor="middle">填写题库</text><text class="t s" x="85" y="113" text-anchor="middle">题干 · 选项 · 答案</text><text class="t s" x="85" y="141" text-anchor="middle">保存并关闭文件</text></g>
+  <path class="arrow" d="M597 178 H608"/>
+  <g transform="translate(616,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">4</text><text class="t h" x="85" y="76" text-anchor="middle">设置问卷</text><text class="t s" x="85" y="113" text-anchor="middle">填写完整链接</text><text class="t s" x="85" y="141" text-anchor="middle">确认开始页与分页</text></g>
+  <path class="arrow" d="M794 178 H805"/>
+  <g transform="translate(813,90)"><rect class="focus" width="170" height="175" rx="14"/><circle class="focusnum" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">5</text><text class="t h" x="85" y="76" text-anchor="middle">核查预热</text><text class="t s" x="85" y="113" text-anchor="middle">核查整份题库</text><text class="t s" x="85" y="141" text-anchor="middle">浏览器全部就绪</text></g>
+  <path class="arrow" d="M991 178 H1002"/>
+  <g transform="translate(1010,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">6</text><text class="t h" x="85" y="76" text-anchor="middle">完整测试</text><text class="t s" x="85" y="113" text-anchor="middle">核对匹配与翻页</text><text class="t s" x="85" y="141" text-anchor="middle">正式前重做第二步</text></g>
+  <path class="arrow" d="M1188 178 H1199"/>
+  <g transform="translate(1207,90)"><rect class="box" width="170" height="175" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">7</text><text class="t h" x="85" y="76" text-anchor="middle">正式答题</text><text class="t s" x="85" y="113" text-anchor="middle">手动或到点触发</text><text class="t s" x="85" y="141" text-anchor="middle">匹配填写并提交</text></g>
+
+  <text x="700" y="319" text-anchor="middle" class="t s">第二步之后不要再修改题库、驱动、并行数量或代理配置；发生变化时必须重新核查并预热</text>
+</svg>
