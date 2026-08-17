@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350" role="img" aria-labelledby="title desc">
+  <title id="title">问卷星题库版到点答题时间线</title>
+  <desc id="desc">先填写链接并核查题库、预热浏览器，再设置目标时间和网络延迟，程序在提前后的时刻自动执行第三步。</desc>
+  <defs>
+    <style>.t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:27px;font-weight:700}.s{font-size:19px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.focus{fill:#fff8ef;stroke:#e89b38;stroke-width:2}.focusnum{fill:#dd8524}.arrow{stroke:#7c93a8;stroke-width:4;fill:none;marker-end:url(#m)}</style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c93a8"/></marker>
+  </defs>
+  <rect width="1400" height="350" rx="18" fill="#eef5fb"/>
+  <text x="700" y="48" text-anchor="middle" class="t h">题库版到点答题：链接、预热与提前触发</text>
+
+  <g transform="translate(35,90)"><rect class="box" width="290" height="175" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">1</text><text class="t h" x="145" y="76" text-anchor="middle">填写链接并预热</text><text class="t s" x="145" y="114" text-anchor="middle">核查题库与问卷链接</text><text class="t s" x="145" y="143" text-anchor="middle">确认浏览器全部就绪</text></g>
+  <path class="arrow" d="M335 178 H367"/>
+  <g transform="translate(375,90)"><rect class="box" width="290" height="175" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">2</text><text class="t h" x="145" y="76" text-anchor="middle">开启到点答题</text><text class="t s" x="145" y="114" text-anchor="middle">设置规定时间 T₀</text><text class="t s" x="145" y="143" text-anchor="middle">等待网络校时成功</text></g>
+  <path class="arrow" d="M675 178 H707"/>
+  <g transform="translate(715,90)"><rect class="focus" width="290" height="175" rx="14"/><circle class="focusnum" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">3</text><text class="t h" x="145" y="76" text-anchor="middle">提前触发</text><text class="t s" x="145" y="114" text-anchor="middle">触发时刻＝T₀－网络延迟</text><text class="t s" x="145" y="143" text-anchor="middle">0.50 表示提前约 0.50 秒</text></g>
+  <path class="arrow" d="M1015 178 H1047"/>
+  <g transform="translate(1055,90)"><rect class="box" width="310" height="175" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">4</text><text class="t h" x="155" y="76" text-anchor="middle">自动执行第三步</text><text class="t s" x="155" y="114" text-anchor="middle">使用已预热浏览器</text><text class="t s" x="155" y="143" text-anchor="middle">匹配题库、填写并提交</text></g>
+
+  <text x="700" y="319" text-anchor="middle" class="t s">题库版必须提前填好完整问卷链接；网络延迟是“提前量”，设置过大可能在问卷开放前进入页面</text>
+</svg>
