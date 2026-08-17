@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="650" viewBox="0 0 1400 650" role="img" aria-labelledby="title desc">
+  <title id="title">题库匹配失败后补库并继续的流程</title>
+  <desc id="desc">程序逐题检查题干、题型、选项或输入框。任一检查失败便暂停页面，用户补充题库并重新核查后，从当前题目继续。</desc>
+  <defs>
+    <style>.t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:25px;font-weight:700}.s{font-size:18px}.xs{font-size:16px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.focus{fill:#fff8ef;stroke:#e89b38;stroke-width:2}.focusnum{fill:#dd8524}.ok{fill:#f1fbf6;stroke:#3a9b70;stroke-width:2}.oknum{fill:#3a9b70}.arrow{stroke:#7c93a8;stroke-width:4;fill:none;marker-end:url(#m)}.branch{stroke:#c18338;stroke-width:3;fill:none;marker-end:url(#mo)}.loop{stroke:#3a9b70;stroke-width:4;fill:none;marker-end:url(#mg)}</style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c93a8"/></marker>
+    <marker id="mo" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#c18338"/></marker>
+    <marker id="mg" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#3a9b70"/></marker>
+  </defs>
+  <rect width="1400" height="650" rx="18" fill="#eef5fb"/>
+  <text x="700" y="48" text-anchor="middle" class="t h">题库匹配失败：暂停、补库、重新核查后从当前题继续</text>
+
+  <g transform="translate(30,85)"><rect class="box" width="230" height="150" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">1</text><text class="t h" x="115" y="72" text-anchor="middle">读取网页题目</text><text class="t s" x="115" y="108" text-anchor="middle">取得可见题干</text><text class="t s" x="115" y="134" text-anchor="middle">逐题按顺序处理</text></g>
+  <path class="arrow" d="M270 160 H290"/>
+  <g transform="translate(300,85)"><rect class="box" width="230" height="150" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">2</text><text class="t h" x="115" y="72" text-anchor="middle">匹配题干</text><text class="t s" x="115" y="108" text-anchor="middle">标准题干或别名</text><text class="t s" x="115" y="134" text-anchor="middle">规范化后精确匹配</text></g>
+  <path class="arrow" d="M540 160 H560"/>
+  <g transform="translate(570,85)"><rect class="box" width="230" height="150" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">3</text><text class="t h" x="115" y="72" text-anchor="middle">核对题型</text><text class="t s" x="115" y="108" text-anchor="middle">网页识别结果</text><text class="t s" x="115" y="134" text-anchor="middle">必须与题库一致</text></g>
+  <path class="arrow" d="M810 160 H830"/>
+  <g transform="translate(840,85)"><rect class="box" width="230" height="150" rx="14"/><circle class="num" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">4</text><text class="t h" x="115" y="72" text-anchor="middle">核对填写目标</text><text class="t s" x="115" y="108" text-anchor="middle">选项文字唯一匹配</text><text class="t s" x="115" y="134" text-anchor="middle">输入框数量一致</text></g>
+  <path class="arrow" d="M1080 160 H1100"/>
+  <g transform="translate(1110,85)"><rect class="ok" width="260" height="150" rx="14"/><circle class="oknum" cx="28" cy="28" r="19"/><text class="n" x="28" y="36" text-anchor="middle">5</text><text class="t h" x="130" y="72" text-anchor="middle">填写成功</text><text class="t s" x="130" y="108" text-anchor="middle">继续下一题或下一页</text><text class="t s" x="130" y="134" text-anchor="middle">全部完成后再提交</text></g>
+
+  <path class="branch" d="M415 235 V260 H585 V285"/>
+  <path class="branch" d="M685 235 V285"/>
+  <path class="branch" d="M955 235 V260 H815 V285"/>
+  <g transform="translate(500,295)"><rect class="focus" width="400" height="90" rx="14"/><circle class="focusnum" cx="32" cy="28" r="19"/><text class="n" x="32" y="36" text-anchor="middle">!</text><text class="t h" x="200" y="38" text-anchor="middle">任一检查无法安全通过</text><text class="t s" x="200" y="70" text-anchor="middle">禁止继续提交，当前浏览器停在失败题目</text></g>
+  <path class="branch" d="M700 395 V425 H270 V440"/>
+
+  <g transform="translate(130,450)"><rect class="focus" width="280" height="125" rx="14"/><circle class="focusnum" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">1</text><text class="t h" x="140" y="60" text-anchor="middle">暂停当前页面</text><text class="t s" x="140" y="94" text-anchor="middle">查看页面与日志</text><text class="t xs" x="140" y="118" text-anchor="middle">前面已填题目保持不动</text></g>
+  <path class="arrow" d="M420 512 H550"/>
+  <g transform="translate(560,450)"><rect class="box" width="280" height="125" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">2</text><text class="t h" x="140" y="60" text-anchor="middle">修改并保存题库</text><text class="t s" x="140" y="94" text-anchor="middle">补题、别名或修正答案</text><text class="t xs" x="140" y="118" text-anchor="middle">保存并关闭 Excel</text></g>
+  <path class="arrow" d="M850 512 H980"/>
+  <g transform="translate(990,450)"><rect class="ok" width="280" height="125" rx="14"/><circle class="oknum" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">3</text><text class="t h" x="140" y="60" text-anchor="middle">重新核查并继续</text><text class="t s" x="140" y="94" text-anchor="middle">核查通过后唤醒页面</text><text class="t xs" x="140" y="118" text-anchor="middle">失败则继续保持暂停</text></g>
+  <path class="loop" d="M1270 512 H1340 V590 H415 V245"/>
+  <text x="1298" y="490" text-anchor="middle" class="t xs">核查通过</text>
+
+  <text x="700" y="620" text-anchor="middle" class="t s">多个并行页面可以同时等待；新题库核查成功后统一唤醒，每个页面都从各自的当前题目重新尝试</text>
+</svg>
