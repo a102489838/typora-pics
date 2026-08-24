@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390">
+  <defs>
+    <style>.t{font-family:"Microsoft YaHei","PingFang SC",sans-serif;fill:#17324d}.h{font-size:25px;font-weight:700}.s{font-size:17px}.n{font-size:22px;font-weight:700;fill:#fff}.box{fill:#f7fbff;stroke:#5a9bd5;stroke-width:2}.num{fill:#2f80c9}.arrow{stroke:#7c93a8;stroke-width:4;fill:none;marker-end:url(#m)}</style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#7c93a8"/></marker>
+  </defs>
+  <rect width="1400" height="390" rx="18" fill="#eef5fb"/>
+  <text x="700" y="50" text-anchor="middle" class="t h">问卷星自动化助手：六步完成配置与填写</text>
+  <g transform="translate(35,100)"><rect class="box" width="190" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">1</text><text class="t h" x="95" y="82" text-anchor="middle">准备环境</text><text class="t s" x="95" y="122" text-anchor="middle">激活许可证</text><text class="t s" x="95" y="151" text-anchor="middle">等待驱动就绪</text></g>
+  <path class="arrow" d="M233 193 H249"/>
+  <g transform="translate(257,100)"><rect class="box" width="190" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">2</text><text class="t h" x="95" y="82" text-anchor="middle">填写参数</text><text class="t s" x="95" y="122" text-anchor="middle">链接 · 路径</text><text class="t s" x="95" y="151" text-anchor="middle">勾选问卷特征</text></g>
+  <path class="arrow" d="M455 193 H471"/>
+  <g transform="translate(479,100)"><rect class="box" width="190" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">3</text><text class="t h" x="95" y="82" text-anchor="middle">勘探问卷</text><text class="t s" x="95" y="122" text-anchor="middle">生成 Excel</text><text class="t s" x="95" y="151" text-anchor="middle">读取题目结构</text></g>
+  <path class="arrow" d="M677 193 H693"/>
+  <g transform="translate(701,100)"><rect class="box" width="190" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">4</text><text class="t h" x="95" y="82" text-anchor="middle">编辑 Excel</text><text class="t s" x="95" y="122" text-anchor="middle">选择填写模式</text><text class="t s" x="95" y="151" text-anchor="middle">按说明填写答案</text></g>
+  <path class="arrow" d="M899 193 H915"/>
+  <g transform="translate(923,100)"><rect class="box" width="190" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">5</text><text class="t h" x="95" y="82" text-anchor="middle">小批量测试</text><text class="t s" x="95" y="122" text-anchor="middle">先运行 1–2 份</text><text class="t s" x="95" y="151" text-anchor="middle">核对提交结果</text></g>
+  <path class="arrow" d="M1121 193 H1137"/>
+  <g transform="translate(1145,100)"><rect class="box" width="220" height="185" rx="14"/><circle class="num" cx="30" cy="30" r="20"/><text class="n" x="30" y="38" text-anchor="middle">6</text><text class="t h" x="110" y="82" text-anchor="middle">正式运行</text><text class="t s" x="110" y="122" text-anchor="middle">观察日志与进度</text><text class="t s" x="110" y="151" text-anchor="middle">复核成功与失败记录</text></g>
+  <text x="700" y="344" text-anchor="middle" class="t s">建议：先关闭 Excel 文件再运行；仅在获得授权的问卷与测试场景中使用</text>
+</svg>
